@@ -123,18 +123,19 @@ I'm passionate about understanding cybersecurity, protecting digital systems and
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge)
 
-### 📊 Data Analytics & Tools
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Database Management](https://img.shields.io/badge/Database_Management-34495E?style=for-the-badge)
-
----
 ### 🧠 Computer Science Fundamentals
 
 ![Data Structures](https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-16A34A?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-7C3AED?style=for-the-badge)
+### 📊 Data Analytics & Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Database Management](https://img.shields.io/badge/Database_Management-34495E?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### 🛠️ Development Tools & IDEs
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
