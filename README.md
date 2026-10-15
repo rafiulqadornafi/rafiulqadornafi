@@ -173,13 +173,13 @@ I'm passionate about understanding cybersecurity, protecting digital systems and
 
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio Website
+#### 🌐 Personal Portfolio Website
 
 A responsive personal portfolio showcasing my skills, projects and development journey.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[![Live Website](https://img.shields.io/badge/Live_Website-Visit_Portfolio-0A66C2?style=for-the-badge)](https://rafiulqadornafi.github.io)
+[![Live Website](https://img.shields.io/badge/Live_Website-Visit_Portfolio-0A66C2?style=for-the-badge)](https://rafiulqadornafi.github.io/MY-Portfolio-Website/)
 
 ---
 
