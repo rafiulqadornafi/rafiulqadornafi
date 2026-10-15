@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="[https://rafiulqadornafi.github.io](https://rafiulqadornafi.github.io/MY-Portfolio-Website/)">
+<a href="https://rafiulqadornafi.github.io/MY-Portfolio-Website/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge" alt="Portfolio"/>
 </a>
 
@@ -98,6 +98,7 @@ I'm passionate about understanding cybersecurity, protecting digital systems and
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
 
@@ -129,6 +130,22 @@ I'm passionate about understanding cybersecurity, protecting digital systems and
 ![Database Management](https://img.shields.io/badge/Database_Management-34495E?style=for-the-badge)
 
 ---
+### 🧠 Computer Science Fundamentals
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-16A34A?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-7C3AED?style=for-the-badge)
+### 🛠️ Development Tools & IDEs
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🤖 AI & Automation Tools
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Automation-6C3FC5?style=for-the-badge)
 
 ## 🌱 Currently Learning & Future Roadmap
 
